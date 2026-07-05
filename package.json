@@ -40,7 +40,7 @@
     "email": "wahbehw@gmail.com",
     "url": "https://waelio.com"
   },
-  "license": "ISC",
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },

@@ -48,4 +48,4 @@ ws.readyState   // WebSocket.OPEN / CONNECTING / CLOSED / CLOSING
 
 ## License
 
-ISC © [Wael Wahbeh](https://waelio.com)
+MIT © [Wael Wahbeh](https://waelio.com)
